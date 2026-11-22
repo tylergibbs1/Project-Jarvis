@@ -1,6 +1,6 @@
+
 numpy
-opencv-python==4.7.0.72
-Cython==0.29.34
+opencv-python==4.14.0.94
 pandas==2.3.3
 Pillow==12.0.0
 PyAutoGUI==0.9.53
@@ -17,16 +17,14 @@ selenium==4.9.0
 SpeechRecognition==3.8.1
 Sphinx==4.5.0
 tensorflow==2.22.0rc1
-keras==3.0.0
 beautifulsoup4==4.12.2
 colorama==0.4.6
 distlib==0.3.6
 genderize==0.3.1
 matplotlib==3.11.2
-google==3.0.0
 google-api-python-client
 google-auth-httplib2==0.1.0
-google-auth-oauthlib ==1.0.0
+google-auth-oauthlib==1.0.0
 httplib2==0.22.0
 googlesearch-python
 num2words==0.5.12
@@ -39,4 +37,4 @@ rich==13.3.4
 PyAudioWPatch==0.2.12.9
 oauthlib==3.2.2
 sounddevice==0.4.6
-wxpython
+wxPython==4.3.2
