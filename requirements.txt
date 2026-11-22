@@ -38,7 +38,7 @@ webdriver-manager==3.8.6
 urllib3==1.26.15
 sympy==1.11.1
 rich==13.3.4
-PyAudio==0.2.13
+PyAudioWPatch==0.2.12.9
 oauthlib==3.2.2
 sounddevice==0.4.6
 wxpython
