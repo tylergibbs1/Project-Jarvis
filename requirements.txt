@@ -2,7 +2,7 @@ numpy
 opencv-python==4.7.0.72
 Cython==0.29.34
 pandas==2.3.3
-Pillow==9.5.0
+Pillow==12.0.0
 PyAutoGUI==0.9.53
 pybetter==0.4.1
 pydub==0.25.1
